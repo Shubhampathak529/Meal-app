@@ -20,11 +20,11 @@ Basicaly it finds meal/food recipe for you.
 
 ## Demo
 
-👉 [Meal app](https://krishnathakur03.github.io/Meal-app/)
+👉 [Meal app](https://github.com/Shubhampathak529/Meal-app.git)
 
 ## Authors
 
-- [@krishnathakur03](https://www.github.com/krishnathakur03)
+- [@shubhampathak](https://github.com/Shubhampathak529/Meal-app.git)
 
 - [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnathakur03/)
 
