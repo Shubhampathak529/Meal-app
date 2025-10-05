@@ -44,4 +44,4 @@ I learn lot of things in this project, mainely I found new way to style and sele
 
 ## Feedback
 
-If you have any feedback, please reach out to us at krishnatk706@gmail.com
+If you have any feedback, please reach out to us at shubhofficial529@gmail.com
