@@ -26,7 +26,7 @@ Basicaly it finds meal/food recipe for you.
 
 - [@shubhampathak](https://github.com/Shubhampathak529/Meal-app.git)
 
-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shubham-pathak-471a4a258)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/shubham-pathak-471a4a258/)
 
 
 ## 🛠 Skills
